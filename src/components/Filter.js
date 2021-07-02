@@ -6,7 +6,7 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 class Filter extends Component { 
 
   state = {
-      nameChecked: false,
+      nameChecked: true,
       ageChecked: false,
   };
 
